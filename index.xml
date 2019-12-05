@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PRGRMMR</title>
+    <link>https://prgrmmr.org/</link>
+    <description>Recent content on PRGRMMR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2019 10:57:15 -0300</lastBuildDate>
+    
+	<atom:link href="https://prgrmmr.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://prgrmmr.org/about/</link>
+      <pubDate>Tue, 03 Dec 2019 10:57:15 -0300</pubDate>
+      
+      <guid>https://prgrmmr.org/about/</guid>
+      <description>Hi!
+I&amp;rsquo;m Henrique, a software developer and Linux enthusiast with experience in enterprise web applications.
+Currently working on a prediction market software.
+Other interests include books, videogames and old sci-fi movies.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -118,7 +118,7 @@ $ git init
 Changes to be committed:
   (use &quot;git reset HEAD &lt;file&gt;...&quot; to unstage)
 
-    new file:   helloworld.txt
+	new file:   helloworld.txt
 </code></pre>
 <p>Neste exemplo o comando retorna informando o arquivo &lsquo;helloworld.txt&rsquo; será adicionado no próximo commit.</p>
 <h2 id="realizando-commits">Realizando Commits</h2>
